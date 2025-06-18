@@ -6,7 +6,7 @@
 | ---------------------- | --------------------------------------- |
 | @cap-js/asyncapi       | 1.0.3                                   |
 | @cap-js/cds-types      | 0.11.0                                  |
-| @cap-js/db-service     | 2.1.1                                   |
+| @cap-js/db-service     | 2.1.2                                   |
 | @cap-js/openapi        | 1.2.3                                   |
 | @cap-js/sqlite         | 2.0.1                                   |
 | @sap/cds               | 9.0.3                                   |
